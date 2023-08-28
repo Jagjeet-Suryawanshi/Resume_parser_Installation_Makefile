@@ -1,0 +1,13 @@
+requests
+matplotlib==3.4.2
+nltk==3.6.2
+pandas==1.4.2
+stanza==1.2.1
+streamlit==0.82.0
+streamlit-aggrid==0.2.1
+tika==1.24
+transformers==4.6.1
+protobuf==3.20.0
+numpy==1.19.5
+
+
